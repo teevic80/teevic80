@@ -1,8 +1,8 @@
 <h1 align="left">Hey, I'm Tamara 👋</h1>
 
 <p align="left">
-  <b>AI & Automation Specialist | Product Builder</b><br>
-  <em>Building AI & Automation systems that make work easier. I turn messy and tangled processes into clean, predictable workflows that free up teams to do their best work.</em>
+  <b>AI & Automation Specialist | AI Product Builder</b><br>
+  <em>Building AI & Automation systems that make work easier. I turn messy and tangled processes into clean, predictable workflows that free up teams to do their best work. With 5+ years of experience as a Product Manager across ed-tech, hr-tech, and prop-tech, now building at the intersection of AI, Automation, & Products</em>
 </p>
 
 <p align="left">
