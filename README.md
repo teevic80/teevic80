@@ -45,6 +45,12 @@ I build at the intersection of **AI, automation, and product** — designing AI-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+**Automation**
+
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -58,12 +64,12 @@ I build at the intersection of **AI, automation, and product** — designing AI-
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-**Automation & Tools**
+**Tools**
 
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![v0](https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=flat-square&logoColor=white)
 
 ---
@@ -72,6 +78,16 @@ I build at the intersection of **AI, automation, and product** — designing AI-
   <img src="https://github-readme-stats.vercel.app/api?username=teevic80&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teevic80&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
 </p>
+
+---
+
+## Certifications
+
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| [Make Advanced](https://www.credly.com/badges/0d8e65f1-0ed1-451d-b769-2df22b51ebcf/public_url) | Make (Integromat) | Jun 2025 |
+| [Notion Academy — Workflows](https://verify.skilljar.com/c/e3egtuh4y44p) | Notion | Apr 2026 |
+| [Machine Learning](https://coursera.org/share/f5a7150d4cc075526e2d7e0683ef3f07) | Stanford / Coursera | Oct 2019 |
 
 ---
 
