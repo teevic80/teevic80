@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>AI & Automation Specialist · Product Builder</b><br>
-  <em>Building systems that think, tools that ship, and products people actually use.</em>
+  <em>Building AI & Automation systems that make work easier. I turn messy and tangled processes into clean, predictable workflows that free up teams to do their best work.</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/teevic80">
+  <a href="https://linkedin.com/in/teevic80](https://www.linkedin.com/in/victoria-tamara/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ogotvictoria@gmail.com">
@@ -18,12 +18,12 @@
 
 ## About Me
 
-I build at the intersection of **AI, automation, and product development** — designing systems that remove friction and tools that actually ship.
+I build at the intersection of **AI, automation, and product** — designing AI-powered and automated systems that remove friction. I leverage product thinking and human-centered design to build and develop impactful solutions.
 
-- 🤖 Designing and deploying agentic pipelines with Claude & OpenAI
-- 🛠️ Full-stack products with Next.js, Supabase, and Vercel
-- 📱 Cross-platform mobile apps with Expo
-- ⚙️ Workflow automation with Make, n8n, and Notion integrations
+- 🤖 Designing and deploying AI systems and pipelines with Claude & OpenAI
+- 🛠️ Building full-stack products with Next.js, Supabase, and Vercel
+- ⚙️ Workflow automation with Make, Zapier, and n8n
+- 👥 CRM optimisation and custom workflow setup with Notion
 
 ---
 
@@ -31,15 +31,15 @@ I build at the intersection of **AI, automation, and product development** — d
 
 | Project | What it does |
 |---------|-------------|
-| [**niaboard**](https://github.com/teevic80/niaboard) | Smart dashboard with automated data scraping and visualization |
-| [**eventbit**](https://github.com/teevic80/eventbit) | Event discovery and management platform |
+| [**niaboard**](https://github.com/teevic80/niaboard) | Smart dashboard with automated data scraping and visualization for beauty industry opportunities in jobs, equipments, and businesses for sale |
+| [**eventbit**](https://github.com/teevic80/eventbit) | Group event management & payments mobile platform |
 | [**blog-growth-agent**](https://github.com/teevic80/blog-growth-agent) | AI agent that automates content creation and distribution workflows |
 
 ---
 
 ## Tech Stack
 
-**AI & LLMs**
+**AI**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
