@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Tori 👋</h1>
+<h1 align="left">Hey, I'm Tamara 👋</h1>
 
 <p align="left">
   <b>AI & Automation Specialist | Product Builder</b><br>
