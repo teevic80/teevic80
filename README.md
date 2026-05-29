@@ -18,7 +18,7 @@
 
 ## About Me
 
-I build at the intersection of **AI, automation, and product** — designing AI-powered and automated systems that remove friction. I leverage product thinking and human-centered design to build and develop impactful solutions.
+I build at the intersection of **AI, automation, and product**: designing AI-powered and automated systems that remove friction. I leverage product thinking and human-centered design to build and develop impactful solutions.
 
 - 🤖 Designing and deploying AI systems and pipelines with Claude & OpenAI
 - 🛠️ Building full-stack products with Next.js, Supabase, and Vercel
@@ -34,7 +34,7 @@ I build at the intersection of **AI, automation, and product** — designing AI-
 | [**niaboard**](https://github.com/teevic80/niaboard) | Smart dashboard with automated data scraping and visualization for beauty industry opportunities in jobs, equipments, and businesses for sale |
 | [**eventbit**](https://github.com/teevic80/eventbit) | Group event management & payments mobile platform |
 | [**blog-growth-agent**](https://github.com/teevic80/blog-growth-agent) | AI agent that automates content creation and distribution workflows |
-| [**@notionwithtori**](https://www.notion.com/@notionwithtori) | Notion Recommended Creator — templates & workflow systems · 16.7K views · 4.5K downloads |
+| [**@notionwithtori**](https://www.notion.com/@notionwithtori) | Notion Recommended Creator. Productivity templates & workflow systems · 16.7K views · 4.5K downloads |
 
 ---
 
@@ -79,7 +79,7 @@ I build at the intersection of **AI, automation, and product** — designing AI-
 
 | Certification | Issuer | Date |
 |---------------|--------|------|
-| [Make Advanced](https://www.credly.com/badges/0d8e65f1-0ed1-451d-b769-2df22b51ebcf/public_url) | Make (Integromat) | Jun 2025 |
+| [Make Advanced](https://www.credly.com/badges/0d8e65f1-0ed1-451d-b769-2df22b51ebcf/public_url) | Make | Jun 2025 |
 | [Notion Academy — Workflows](https://verify.skilljar.com/c/e3egtuh4y44p) | Notion | Apr 2026 |
 | [Machine Learning](https://coursera.org/share/f5a7150d4cc075526e2d7e0683ef3f07) | Stanford / Coursera | Oct 2019 |
 
