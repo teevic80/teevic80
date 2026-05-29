@@ -31,10 +31,9 @@ I build at the intersection of **AI, automation, and product development** — d
 
 | Project | What it does |
 |---------|-------------|
-| [**blog-growth-agent**](https://github.com/teevic80/blog-growth-agent) | AI agent that automates content creation and distribution workflows |
-| [**career-ops**](https://github.com/teevic80/career-ops) | AI-powered career operations platform — track, analyze, and optimize your job search |
-| [**eventbit**](https://github.com/teevic80/eventbit) | Event discovery and management platform |
 | [**niaboard**](https://github.com/teevic80/niaboard) | Smart dashboard with automated data scraping and visualization |
+| [**eventbit**](https://github.com/teevic80/eventbit) | Event discovery and management platform |
+| [**blog-growth-agent**](https://github.com/teevic80/blog-growth-agent) | AI agent that automates content creation and distribution workflows |
 
 ---
 
