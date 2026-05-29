@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/teevic80](https://www.linkedin.com/in/victoria-tamara/">
+  <a href="https://www.linkedin.com/in/victoria-tamara/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ogotvictoria@gmail.com">
@@ -34,6 +34,7 @@ I build at the intersection of **AI, automation, and product** — designing AI-
 | [**niaboard**](https://github.com/teevic80/niaboard) | Smart dashboard with automated data scraping and visualization for beauty industry opportunities in jobs, equipments, and businesses for sale |
 | [**eventbit**](https://github.com/teevic80/eventbit) | Group event management & payments mobile platform |
 | [**blog-growth-agent**](https://github.com/teevic80/blog-growth-agent) | AI agent that automates content creation and distribution workflows |
+| [**@notionwithtori**](https://www.notion.com/@notionwithtori) | Notion Recommended Creator — templates & workflow systems · 16.7K views · 4.5K downloads |
 
 ---
 
@@ -74,13 +75,6 @@ I build at the intersection of **AI, automation, and product** — designing AI-
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teevic80&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teevic80&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
-</p>
-
----
-
 ## Certifications
 
 | Certification | Issuer | Date |
@@ -91,6 +85,14 @@ I build at the intersection of **AI, automation, and product** — designing AI-
 
 ---
 
+<h3 align="center">Let's connect.</h3>
+
 <p align="center">
-  <i>Open to collabs, contracts, and interesting problems.</i>
+  <a href="https://www.linkedin.com/in/victoria-tamara/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:ogotvictoria@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
