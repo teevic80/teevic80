@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Tori 👋</h1>
+<h1 align="left">Hey, I'm Tori 👋</h1>
 
-<p align="center">
+<p align="left">
   <b>AI & Automation Specialist · Product Builder</b><br>
   <em>Building AI & Automation systems that make work easier. I turn messy and tangled processes into clean, predictable workflows that free up teams to do their best work.</em>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/victoria-tamara/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
