@@ -8,15 +8,6 @@
 
 > <font color="gray"><em>Building AI & Automation systems that make work easier. I turn messy and tangled processes into clean, predictable workflows that free up teams to do their best work. With 5+ years of experience as a Product Manager across ed-tech, hr-tech, and prop-tech, now building at the intersection of AI, Automation, & Products</em></font>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/victoria-tamara/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ogotvictoria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## About Me
@@ -56,7 +47,7 @@ I build at the intersection of **AI, automation, and product**: designing AI-pow
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-**Techstack**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
