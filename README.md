@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Tori 👋</h1>
 
 <p align="left">
-  <b>AI & Automation Specialist · Product Builder</b><br>
+  <b>AI & Automation Specialist | Product Builder</b><br>
   <em>Building AI & Automation systems that make work easier. I turn messy and tangled processes into clean, predictable workflows that free up teams to do their best work.</em>
 </p>
 
