@@ -17,7 +17,7 @@ I build at the intersection of **AI, automation, and product**: designing AI-pow
 - 🤖 Designing and deploying AI systems and pipelines with Claude & OpenAI
 - 🛠️ Building full-stack products with Next.js, Supabase, and Vercel
 - ⚙️ Workflow automation with Make, Zapier, and n8n
-- 👥 CRM optimisation and custom workflow setup with Notion
+- 👥 CRM optimisation and custom workflow setup with Notion and Airtable
 
 ---
 
