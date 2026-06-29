@@ -27,7 +27,7 @@ I build at the intersection of **AI, automation, and product**: designing AI-pow
 |---------|-------------|
 | [**niaboard**](https://github.com/teevic80/niaboard) | Smart dashboard with automated data scraping and visualization for beauty industry opportunities in jobs, equipments, and businesses for sale |
 | [**eventbit**](https://github.com/teevic80/eventbit) | Group event management & payments mobile platform |
-| [**blog-growth-agent**](https://github.com/teevic80/blog-growth-agent) | AI agent that automates content creation and distribution workflows |
+| [**content-growth-agent**](https://github.com/teevic80/content-growth-agent) | AI agent that automates content creation and distribution workflows |
 | [**@notionwithtori**](https://www.notion.com/@notionwithtori) | Notion Recommended Creator. Productivity templates & workflow systems · 16.7K views · 4.5K downloads |
 
 ---
